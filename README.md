@@ -1,7 +1,7 @@
 # metronome
 simple metronome sound generator.
 
-[!metronome_image](https://github.com/user-attachments/assets/ba5b1b77-1cad-4ad2-a3f6-40738eee945e)
+![metronome_image](https://github.com/user-attachments/assets/ba5b1b77-1cad-4ad2-a3f6-40738eee945e)
 
 ## usage
 

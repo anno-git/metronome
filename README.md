@@ -18,7 +18,7 @@ simple metronome sound generator.
 If you want to preview sound, install simpleaudio for Mac/Linux.
 
 ```
-pip install simpleaudio (Mac/Linux)
+pip install simpleaudio
 ```
 
 Windows uses `winsound` instead.
